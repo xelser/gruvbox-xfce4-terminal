@@ -1,5 +1,5 @@
 # Gruvbox Material XFCE4 Terminal
-Gruvbox Material XFCE4 Terminal theme
+Copy to `/usr/share/xfce4/terminal/colorschemes`
 
 # Credits
 - https://github.com/sainnhe/gruvbox-material
